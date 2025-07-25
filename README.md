@@ -1,35 +1,33 @@
-Detective Willson Helberg – Narrative & Gameplay Contribution
-This repository presents a curated selection of narrative systems, gameplay blueprints, and design samples from Detective Willson Helberg – a narrative-driven detective game developed over 2 years in a 15-person team using Unreal Engine 5.
+## Detective Willson Helberg – Narrative & Gameplay Design Showcase
+This repository presents my personal contributions to the Unreal Engine 5 project Detective Willson Helberg — a branching narrative-driven detective game created over 2 years by a 15-person team.
 
-My Role – Narrative Systems & Gameplay Design
-As a Narrative Designer & Gameplay Programmer, I was responsible for:
+## My Role: Narrative Designer & Gameplay Programmer
+I was responsible for both storytelling and system design, including:
 
-Designing branching quest structures with player choice and conditional logic
+Designing quest structures with branching paths, player choices, and conditional outcomes
 
-Implementing dialogue triggers, journal entries, and in-world storytelling systems
+Writing in-world documents and interactive lore objects to enrich immersion
 
-Creating immersive UI elements reflecting quest progress and emotional states
+Scripting narrative logic, NPC behaviors, and world-state changes
 
-Scripting systemic NPC behaviors and interactions (Blueprints + EQS)
+Building the journal system: entry formatting, conditions, and UI implementation
 
-Adding SFX and feedback loops to enhance emotional storytelling
+Designing UI and player feedback elements tied to narrative progress
 
-Maintaining collaborative workflow via Perforce
+Implementing ambient dialogue and sound cues supporting tone and pacing
 
-🗂What’s Included
+Collaborating in Perforce with writers, artists, and designers to ensure narrative consistency
+
+## Repository Contents
 This repository contains:
 
-Screenshots and short clips from key scenes
+Screenshots and examples of key narrative moments and systems
 
-Blueprint examples of dialogue and quest flow logic
+Blueprints and scripts for quest logic, UI, and interactive storytelling
 
-Trigger setups, conditionals, and systemic NPC reactions
+Development notes and documentation outlining my process
 
-UI widgets for journal entries and player feedback
-
-Workflow notes and commentary on narrative design decisions
-
-Note: As the full project was developed collaboratively via Perforce, only my personal contributions are showcased here.
+Note: This showcase includes only my personal contributions due to team version control in Perforce.
 
 ##  Video Showcase
 
@@ -38,9 +36,12 @@ You can watch a demo of the project here:
 
 ##  Tools & Technologies
 
-- Unreal Engine 5  
-- Blueprint scripting  
-- Perforce (version control)  
-- Quest systems, UI systems, AI logic
+- Unreal Engine 5 (Blueprints, UMG, EQS)
+
+- Narrative scripting (tags, conditionals, player-driven branches)
+
+- Custom journal and dialogue UI systems
+
+- Perforce for version control
 
 
