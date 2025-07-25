@@ -1,28 +1,35 @@
-#  Detective Willson Helberg – Personal Contribution Showcase
+Detective Willson Helberg – Narrative & Gameplay Contribution
+This repository presents a curated selection of narrative systems, gameplay blueprints, and design samples from Detective Willson Helberg – a narrative-driven detective game developed over 2 years in a 15-person team using Unreal Engine 5.
 
-This repository contains selected assets, screenshots, and code samples from the Unreal Engine 5 project **Detective Willson Helberg** — a narrative-driven detective game developed over the course of 2 years by a 15-person team.
+My Role – Narrative Systems & Gameplay Design
+As a Narrative Designer & Gameplay Programmer, I was responsible for:
 
-##  My Role
+Designing branching quest structures with player choice and conditional logic
 
-As a **gameplay programmer**, I was responsible for:
+Implementing dialogue triggers, journal entries, and in-world storytelling systems
 
-- Implementing NPC AI behaviors
-- Creating and integrating UI elements
-- Scripting quest logic and interactions
-- Adding sound effects and feedback
-- Collaborating via Perforce with the development team
+Creating immersive UI elements reflecting quest progress and emotional states
 
-##  Repository Contents
+Scripting systemic NPC behaviors and interactions (Blueprints + EQS)
 
-This repository includes:
+Adding SFX and feedback loops to enhance emotional storytelling
 
--  Screenshots from the project
--  Blueprints related to AI and UI systems
--  Sample quest logic and trigger setups
--  Visual examples of implemented systems
--  Documentation of my workflow and contributions
+Maintaining collaborative workflow via Perforce
 
-> **Note:** Due to project ownership and team collaboration in Perforce, only my personal contributions are included here.
+🗂What’s Included
+This repository contains:
+
+Screenshots and short clips from key scenes
+
+Blueprint examples of dialogue and quest flow logic
+
+Trigger setups, conditionals, and systemic NPC reactions
+
+UI widgets for journal entries and player feedback
+
+Workflow notes and commentary on narrative design decisions
+
+Note: As the full project was developed collaboratively via Perforce, only my personal contributions are showcased here.
 
 ##  Video Showcase
 
